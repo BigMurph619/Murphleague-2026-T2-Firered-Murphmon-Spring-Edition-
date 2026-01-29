@@ -4,7 +4,7 @@
 
 # Murphmon
 
-[MurphLeague 2026](https://github.com/BigMurph619/Murphleague-2026) Tourney #2 is Firered Murpohmon - Spring Edition. Base rules and information found [here](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/Murphmon). 
+[MurphLeague 2026](https://github.com/BigMurph619/Murphleague-2026) Tourney #2 is Firered Murphmon - Spring Edition. Base rules and information found [here](https://github.com/TakeJoshyy/TheMurphVerse/tree/main/1.GameModes/Murphmon). 
 
 Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It aims to be a bit easier and faster while adding more decision making opportunities to the game. Murphmon can be played 10 different ways, all of which remain officially unbeaten. Many rules and settings are mindfully adapted for tournament play and the game is intended to be challenging but beatable.
 
