@@ -13,9 +13,9 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 This Season's Tune-Ups are:
 |         Tune-Ups          | Details |
 |-|-|
-| Spring Cleaning           | Details |           
-| Migration                 | Details |
-| Make it rain              | Details |
+| Spring Cleaning           | You may sell your entire bag to purchase 3 items from the mart. (Post Brock only?) |           
+| Migration                 | Re-Randomize the seed. May only be done after lab. Requires in game save. |
+| Make it rain              | 15 attempts to hit a jackpot. If you do, you may purchase 3 items from Celadon dept. store. |
 | Flower Power              | Details |
 | Allergy Pills             | Details |
 | Bloom                     | Details |
