@@ -13,14 +13,16 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 This Season's Tune-Ups are:
 |         Tune-Ups          | Details |
 |-|-|
-| Lab                       | Details |           
-| Rival #2                  | Details |
-| Brock (3)                 | Details |
-| Mt. Moon Entry            | Details |
-| Mt. Moon Exit             | Details |
-| Bridge Rival              | Details |
-| Rescue Bill               | Details |
-
+| Spring Cleaning           | Details |           
+| Migration                 | Details |
+| Make it rain              | Details |
+| Flower Power              | Details |
+| Allergy Pills             | Details |
+| Bloom                     | Details |
+| Berry Baron               | Details |
+| Sprout                    | Details |
+| Rebirth                   | Details |
+| Picnic                    | Details |
 
 # Tourney Details
 
