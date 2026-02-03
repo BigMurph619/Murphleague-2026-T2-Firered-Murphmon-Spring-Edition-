@@ -13,16 +13,13 @@ Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It a
 This Season's Tune-Ups are:
 |         Tune-Ups          | Details |
 |-|-|
-| Spring Cleaning           | You may sell your entire bag to purchase 3 items from the mart. (Post Brock only?) |           
+| Spring Cleaning           | You may sell your entire bag to purchase 3 items from the mart once. (Post Brock only) |           
 | Migration                 | Re-Randomize the seed. May only be done after lab. Requires in game save. |
-| Make it rain              | 15 attempts to hit a jackpot. If you do, you may purchase 3 items from Celadon dept. store. |
-| Flower Power              | Details |
-| Allergy Pills             | Details |
-| Bloom                     | Details |
-| Berry Baron               | Details |
-| Sprout                    | Details |
-| Rebirth                   | Details |
-| Picnic                    | Details |
+| Make it rain              | 20 attempts to hit a jackpot. If you do, you may purchase 3 items from Celadon department store. Must be done before Erika. |
+| Flower Power              | Pure Power and Huge Power may be used pre-Safari. |
+| Allergy Pills             | You may purchase 5 vitamins for your Safari Pivot. |
+| Bloom                     | 600 BST Pokemon allowed pre-Safari |
+| Berry Baron               | May heal with berries outside of battle pre-Safari. |
 
 # Tourney Details
 
