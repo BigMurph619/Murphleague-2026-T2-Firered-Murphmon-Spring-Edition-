@@ -8,7 +8,7 @@
 
 Murphmon is a randomized Pokemon challenge inspired by Super Kaizo IronMON. It aims to be a bit easier and faster while adding more decision making opportunities to the game. Murphmon can be played 10 different ways, all of which remain officially unbeaten. Many rules and settings are mindfully adapted for tournament play and the game is intended to be challenging but beatable.
 
-"Spring Edition" will feature a pool of 6 Spring Themed 'Tune-ups'. Competitors will be given 3 'Tuning Tokens' per seed that they may spend on Tune-Ups. 
+"Spring Edition" will feature a pool of 7 Spring Themed 'Tune-ups'. Competitors will be given 3 'Tuning Tokens' per seed that they may spend on Tune-Ups. Competitors may only use a tune-up once each seed (i.e. cannot migrate twice in the same seed.)
 
 This Season's Tune-Ups are:
 |         Tune-Ups          | Details |
