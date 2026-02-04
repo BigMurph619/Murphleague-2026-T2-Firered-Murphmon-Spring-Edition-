@@ -82,6 +82,7 @@ All points are worth 1 point unless denoted by ().
 | :-----------------------: |
 | Route Sprout - Share a clip of you encountering a Bellsprout prior to fighting Jimmy to earn 1 bonus point towards your total. Lab not included. |
 | Seeds of Spring - Find a Miracle Seed in the lab and earn 1 bonus point towards your total. |
-
+| Kōdō Collector - Whoever collects the most Incense (both lax and sea combined) in a single run will earn 2 bonus points. |
+| Rooted Resolve - Whoever gets the lowest BST Pokemon to the Safari Zone will earn 3 bonus points. |
 
 Good Luck Challengers.
