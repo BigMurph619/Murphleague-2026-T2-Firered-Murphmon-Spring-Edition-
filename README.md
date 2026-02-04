@@ -23,11 +23,11 @@ This Season's Tune-Ups are:
 
 # Tourney Details
 
-T2 is hosted by [BigMurph619](https://www.twitch.tv/bigmurph619) (subject to change). Dates: March 5th 11:59 PM EST - March 22nd 11:59 PM EST. Sign up deadline is March 13th with details on tourney sign up available in the MurphVerse Discord.
+T2 is hosted by [captdanieldore](https://www.twitch.tv/captdanieldore). Dates: March 5th 11:59 PM EST - March 22nd 11:59 PM EST. Sign up deadline is March 13th with details on tourney sign up available in the MurphVerse Discord.
 
 > You must be in the [MurphVerse discord](https://discord.gg/fNX4geCU) and all seeds must be live for the entire run and have a VOD available. Murphleague tourneys are free to enter and open to all entrants unless previously banned.
 
-Competitors will be given 120 seeds. Your score is determined by your 3 highest scoring runs combined.
+Competitors will be given 150 seeds. Your score is determined by your 3 highest scoring runs combined.
 
 ## Awards
 
